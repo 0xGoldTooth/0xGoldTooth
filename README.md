@@ -15,6 +15,7 @@ Free, open source, MIT.
 | [phone-spyware-check](https://github.com/0xGoldTooth/phone-spyware-check) | Checks your own Android or iPhone for stalkerware: hidden apps, accessibility and admin rights, MDM profiles, battery and data. Writes a plain-English report. | [post](https://x.com/0xGoldTooth/status/2112619624114090402) |
 | [airbnb-camera-scan](https://github.com/0xGoldTooth/airbnb-camera-scan) | Scans the rental's Wi-Fi for hidden cameras (RTSP, ONVIF, camera makers, camera ports) + a 10-minute room checklist. | [post](https://x.com/0xGoldTooth/status/2112224401349587012) |
 | [leak-finder](https://github.com/0xGoldTooth/leak-finder) | Finds where your own photos and videos were reposted and writes the DMCA / takedown letters. | [post](https://x.com/0xGoldTooth/status/2113329996672414027) |
+| [photo-leak-check](https://github.com/0xGoldTooth/photo-leak-check) | Shows where the photos on your Mac and iPhone go: apps with access to your whole camera roll, forgotten clouds, profiles and VPNs, apps uploading right now. Tells you what to turn off. | [post](https://x.com/0xGoldTooth/status/2116231047499423762) |
 
 Each one is a [Claude Code](https://claude.com/claude-code) skill and a plain Python script. Install in 3 steps,
 no accounts, nothing leaves your computer.
