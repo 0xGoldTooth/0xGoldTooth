@@ -20,6 +20,10 @@ Free, open source, MIT.
 Each one is a [Claude Code](https://claude.com/claude-code) skill and a plain Python script. Install in 3 steps,
 no accounts, nothing leaves your computer.
 
+## Want the full setup?
+
+These tools find the problem. SENTINEL fixes it for good: 66 AI bodyguards for your phone, laptop and accounts → https://sentinelsquad.xyz
+
 ## How these get made
 
 1. Something happens to a real person: a hidden camera, a tracked phone, a leak.
